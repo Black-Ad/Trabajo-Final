@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="hint_nombre">Tarea:</string>
+    <string name="hint_correo_electronico">Descripción de Tarea</string>
+    <string name="btn_guarda">Guardar</string>
+    <string name="menu_nuevo">Nueva Tarea</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
